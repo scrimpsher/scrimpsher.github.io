@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "scrimpsher",
+    "description": "",
+    "home_page_url": "https://scrimpsher.github.io",
+    "feed_url": "https://scrimpsher.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://scrimpsher.github.io/media/website/Logo-PNG.png",
+    "author": {
+        "name": "Jason Scrimpsher"
+    },
+    "items": [
+        {
+            "id": "https://scrimpsher.github.io/srimpshercom.html",
+            "url": "https://scrimpsher.github.io/srimpshercom.html",
+            "title": "Srimpsher.com",
+            "author": {
+                "name": "Jason Scrimpsher"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-12T22:25:17-08:00",
+            "date_modified": "2021-01-12T22:30:51-08:00"
+        }
+    ]
+}
