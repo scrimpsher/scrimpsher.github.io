@@ -3,7 +3,7 @@
     <title>scrimpsher</title>
     <link href="https://scrimpsher.github.io/feed.xml" rel="self" />
     <link href="https://scrimpsher.github.io" />
-    <updated>2026-02-16T18:06:43-08:00</updated>
+    <updated>2026-02-16T20:37:39-08:00</updated>
     <author>
         <name>Jason Scrimpsher</name>
     </author>
@@ -20,12 +20,12 @@
         <updated>2021-01-12T22:25:17-08:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Evan it works
+                    Links
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                Evan it works
+                <p>Links</p>
             ]]>
         </content>
     </entry>
