@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://scrimpsher.github.io/sitemap.xml

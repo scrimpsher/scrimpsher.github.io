@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>scrimpsher</title>
     <link href="https://scrimpsher.github.io/feed.xml" rel="self" />
     <link href="https://scrimpsher.github.io" />
-    <updated>2021-01-19T05:01:04-08:00</updated>
+    <updated>2026-02-16T18:06:43-08:00</updated>
     <author>
         <name>Jason Scrimpsher</name>
     </author>
@@ -17,8 +17,8 @@
         <link href="https://scrimpsher.github.io/srimpshercom/"/>
         <id>https://scrimpsher.github.io/srimpshercom/</id>
 
-        <updated>2021-01-16T16:42:09-08:00</updated>
-            <summary>
+        <updated>2021-01-12T22:25:17-08:00</updated>
+            <summary type="html">
                 <![CDATA[
                     Evan it works
                 ]]>
